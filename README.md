@@ -374,6 +374,7 @@ cd /opt/splunk/bin
 	          - Password: `Fill In The Password and Click Sign In`
 	          - Click Next -->> Provide New Password: "admin" 
 	          - Configure Anonymous Access: "Enable anonymous access" -->> Finish
+we go back to jenkins
           - ###### Nexus credentials (username & password)
 	          - Click on ``Add Credentials``
 	          - Kind: Username with password                  
